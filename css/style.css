@@ -65,7 +65,7 @@ a {
 .main-navigation {
   font-size: 16px;
   line-height: 20px;
-  counter-reset: #ffffff;
+  color: #ffffff;
 
   background-color: #000000;
 }
